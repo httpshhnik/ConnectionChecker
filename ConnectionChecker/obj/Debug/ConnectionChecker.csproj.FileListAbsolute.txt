@@ -1,0 +1,10 @@
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\bin\Debug\ConnectionChecker.exe.config
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\bin\Debug\ConnectionChecker.exe
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\bin\Debug\ConnectionChecker.pdb
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.csprojAssemblyReference.cache
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.Form1.resources
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.Properties.Resources.resources
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.csproj.GenerateResource.cache
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.csproj.CoreCompileInputs.cache
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.exe
+C:\Users\NShevchenko\source\repos\ConnectionChecker\ConnectionChecker\obj\Debug\ConnectionChecker.pdb
